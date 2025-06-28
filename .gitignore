@@ -1,0 +1,13 @@
+.direnv/
+.DS_Store
+result-*
+result
+/.pre-commit-config.yaml
+
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
+
+.env

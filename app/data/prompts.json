@@ -1,0 +1,346 @@
+{
+  "metadata": {
+    "totalPrompts": 100,
+    "sections": {
+      "General High-Frequency Conversation Prompts": {
+        "categories": {
+          "Web & Mobile App Development": {
+            "long": 3,
+            "short": 3,
+            "total": 6
+          },
+          "Content Creation & Communication": {
+            "long": 3,
+            "short": 3,
+            "total": 6
+          },
+          "Academic Research & Writing": {
+            "long": 3,
+            "short": 3,
+            "total": 6
+          },
+          "Education & Career Development": {
+            "long": 3,
+            "short": 3,
+            "total": 6
+          },
+          "Advanced AI/ML Applications": {
+            "long": 3,
+            "short": 3,
+            "total": 6
+          },
+          "Business Strategy & Operations": {
+            "long": 2,
+            "short": 2,
+            "total": 4
+          },
+          "Language Translation": {
+            "long": 2,
+            "short": 2,
+            "total": 4
+          },
+          "DevOps & Cloud Infrastructure": {
+            "long": 2,
+            "short": 2,
+            "total": 4
+          },
+          "Digital Marketing & SEO": {
+            "long": 2,
+            "short": 2,
+            "total": 4
+          },
+          "Data Analysis & Visualization": {
+            "long": 2,
+            "short": 2,
+            "total": 4
+          }
+        },
+        "total": 50
+      },
+      "Interactive Prompts": {
+        "categories": {
+          "Web & Mobile App Development": {
+            "long": 3,
+            "short": 3,
+            "total": 6
+          },
+          "Content Creation & Communication": {
+            "long": 3,
+            "short": 3,
+            "total": 6
+          },
+          "Academic Research & Writing": {
+            "long": 3,
+            "short": 3,
+            "total": 6
+          },
+          "Education & Career Development": {
+            "long": 3,
+            "short": 3,
+            "total": 6
+          },
+          "Advanced AI/ML Applications": {
+            "long": 3,
+            "short": 3,
+            "total": 6
+          },
+          "Business Strategy & Operations": {
+            "long": 2,
+            "short": 2,
+            "total": 4
+          },
+          "Language Translation": {
+            "long": 2,
+            "short": 2,
+            "total": 4
+          },
+          "DevOps & Cloud Infrastructure": {
+            "long": 2,
+            "short": 2,
+            "total": 4
+          },
+          "Digital Marketing & SEO": {
+            "long": 2,
+            "short": 2,
+            "total": 4
+          },
+          "Data Analysis & Visualization": {
+            "long": 2,
+            "short": 2,
+            "total": 4
+          }
+        },
+        "total": 50
+      }
+    },
+    "generatedAt": "2025-06-07T19:40:38.126Z",
+    "version": "1.0.0",
+    "description": "Structured prompt dataset with 100 carefully categorized prompts for AI training"
+  },
+  "data": {
+    "General High-Frequency Conversation Prompts": {
+      "Web & Mobile App Development": {
+        "long": [
+          "I'm a junior developer transitioning from traditional web development to mobile app development. I have experience with HTML, CSS, and JavaScript, but I'm confused about the ecosystem of React Native. Could you explain the key components, workflow, and best practices for someone starting out? I'm particularly interested in understanding how state management works differently in mobile apps compared to web applications.",
+          "I'm developing an e-commerce platform for a client who sells handcrafted jewelry. They want a responsive website that showcases high-quality product images, offers secure payment processing, allows customers to customize jewelry pieces, and integrates with their existing inventory management system. The client also wants robust analytics to track user behavior and sales patterns. What architecture and technology stack would you recommend for this project, and what are the key considerations for implementation?",
+          "I'm leading a project to rebuild our company's aging customer portal that handles account management, service requests, and billing for our enterprise clients. The current system uses outdated technology, performs poorly on mobile devices, and doesn't meet accessibility standards. We need to migrate user data seamlessly and ensure the new system integrates with our CRM and payment processing systems. Users range from tech-savvy administrators to occasional users with limited technical expertise. What development approach, architecture, and technology stack would you recommend?"
+        ],
+        "short": [
+          "Help me understand React hooks.",
+          "What's the difference between REST and GraphQL?",
+          "What's responsive design?"
+        ]
+      },
+      "Content Creation & Communication": {
+        "long": [
+          "I'm the marketing manager for a small sustainable fashion brand with limited resources. We need to create compelling content that differentiates us from fast fashion competitors. Our target audience is environmentally conscious millennials with disposable income. What content strategy would work best across different platforms (Instagram, TikTok, blog, newsletter)? How can we maintain a consistent brand voice while adapting to each platform's unique requirements?",
+          "I'm the content director for a financial literacy nonprofit targeting underserved communities. We need to develop educational materials that explain complex financial concepts (credit scores, retirement planning, investment basics) in accessible ways for audiences with varying literacy levels and cultural backgrounds. Some content will be translated into multiple languages. How should we approach creating content that is both informative and engaging while being sensitive to diverse socioeconomic situations?",
+          "I'm developing a comprehensive brand identity for a new telemedicine platform focused on mental health services. We need to create content that builds trust, addresses stigma around mental health, explains our service model, and differentiates us from competitors. Our target audience includes both potential patients across diverse demographics and healthcare providers we want to recruit. How should we develop a content strategy that balances clinical credibility with approachability and addresses the sensitivity of the subject matter?"
+        ],
+        "short": [
+          "What makes a good blog post?",
+          "How do I write engaging email newsletters?",
+          "How do I create a podcast?"
+        ]
+      },
+      "Academic Research & Writing": {
+        "long": [
+          "I'm writing a dissertation on the psychological effects of social media use among teenagers. I've collected survey data from 500 participants aged 13-19 and conducted 20 in-depth interviews. I'm struggling with how to integrate the quantitative and qualitative data in my analysis chapter. What methodological approach would be most effective for synthesizing these different types of data while maintaining academic rigor?",
+          "I'm conducting ethnographic research on the impact of tourism on indigenous communities in northern Thailand. I'll be spending six months in the field, using participant observation, interviews, and community mapping techniques. I'm concerned about my positionality as a Western researcher and want to ensure my methodology is ethical, respectful, and allows authentic voices to emerge. How should I structure my research approach to address power dynamics and avoid perpetuating colonial research practices?",
+          "I'm designing a mixed-methods study examining the relationship between urban green space access and community well-being outcomes. I plan to combine GIS spatial analysis, public health data, qualitative interviews, and participatory mapping workshops across neighborhoods with varying socioeconomic profiles. I'm concerned about integrating these different data types meaningfully and ensuring my research addresses environmental justice questions. What methodological framework would best support this interdisciplinary approach?"
+        ],
+        "short": [
+          "Explain research methodology types.",
+          "Explain p-values in statistics.",
+          "Explain literature review methods."
+        ]
+      },
+      "Education & Career Development": {
+        "long": [
+          "I'm a high school mathematics teacher preparing students for college entrance exams. Many of my students struggle with anxiety around mathematics and have gaps in their fundamental understanding from earlier education. How can I design a curriculum that builds confidence, addresses knowledge gaps, and prepares them for advanced concepts? What teaching methodologies would be most effective for students with math anxiety?",
+          "I'm developing an online course on environmental sustainability for high school students. The course needs to meet state science standards while encouraging critical thinking and civic engagement. Students will have varying levels of prior knowledge, technology access, and personal connection to environmental issues. How can I design an inclusive curriculum that combines scientific concepts with practical applications and keeps digital-native teenagers engaged throughout a semester-long course?",
+          "I'm developing a comprehensive professional development program for teachers transitioning to project-based learning methods in STEM subjects. Many teachers have traditional training and are hesitant about shifting pedagogical approaches. The program needs to build both content knowledge and confidence while providing practical implementation strategies for diverse classroom contexts. How should I structure this training to address teacher concerns, provide ongoing support, and measure effectiveness?"
+        ],
+        "short": [
+          "How can I learn piano effectively?",
+          "What are good resources for learning Python?",
+          "How can I improve my public speaking?"
+        ]
+      },
+      "Advanced AI/ML Applications": {
+        "long": [
+          "I work for a healthcare startup developing predictive models for patient readmission risk. We have access to anonymized patient records including demographics, diagnosis codes, medication history, and lab results. What machine learning approach would be most appropriate for this problem, considering we need interpretable results for clinicians? How should we handle imbalanced data since readmissions are relatively rare events?",
+          "I'm part of a research team using machine learning to detect early signs of neurodegenerative diseases from speech patterns. We have a dataset of recorded interviews from both healthy individuals and those with early-stage conditions, but it's relatively small (200 subjects). What approaches would be most effective for feature extraction from audio data? How can we build robust models with limited training data that generalize well to diverse speech patterns and accents?",
+          "I'm leading a project to implement an AI system that optimizes energy usage across a network of commercial buildings with different ages, systems, and occupancy patterns. We have three years of historical utility data, building management system logs, and weather information. The solution needs to balance energy efficiency with occupant comfort and accommodate both automated controls and facility manager override. How should we approach the problem formulation, model selection, and implementation strategy for this complex real-world system?"
+        ],
+        "short": [
+          "Explain neural networks simply.",
+          "What's transfer learning?",
+          "What is reinforcement learning?"
+        ]
+      },
+      "Business Strategy & Operations": {
+        "long": [
+          "I'm opening a specialty coffee shop in a mid-sized college town that already has several chain cafés and two independent competitors. My unique value proposition is direct-trade relationships with farmers and an educational component about coffee production. How should I position my business to capture market share? What pricing strategy would allow me to emphasize quality while remaining accessible to students?",
+          "I'm a consultant working with a family-owned manufacturing business that's been operating for 50 years. They're facing increasing competition from overseas producers with lower costs and struggling to adapt to changing market demands and technology requirements. The second generation is taking over leadership but facing resistance to change from long-time employees. How should they approach strategic transformation while preserving their heritage and retaining institutional knowledge?"
+        ],
+        "short": [
+          "What are effective pricing strategies?",
+          "How do I conduct market research?"
+        ]
+      },
+      "Language Translation": {
+        "long": [
+          "I'm preparing a bilingual user manual for a consumer electronics product that will be sold in both the United States and Mexico. The manual contains technical terminology, safety warnings, and step-by-step instructions. What approach should I take to ensure the Spanish translation is not only linguistically accurate but also culturally appropriate for Mexican consumers? Are there specific considerations for technical translations?",
+          "I'm creating multilingual support documentation for enterprise software that will be used across North America, Europe, and East Asia. The documentation includes technical specifications, user instructions, and troubleshooting guides. Beyond simple translation, I need to ensure that technical concepts make sense in languages with different syntactic structures and that cultural references and examples are appropriate across regions. What process should I implement to ensure high-quality, culturally-responsive translations?"
+        ],
+        "short": [
+          "What's the difference between formal and casual Japanese?",
+          "Can you explain Spanish verb conjugation?"
+        ]
+      },
+      "DevOps & Cloud Infrastructure": {
+        "long": [
+          "I'm responsible for modernizing our company's deployment infrastructure. Currently, we have a monolithic application deployed on-premises with manual testing and deployment procedures that take days to complete. I want to implement containerization, automated testing, and continuous deployment. What would a realistic roadmap look like for this transition? What potential challenges should I anticipate?",
+          "I'm the IT director for a healthcare provider transitioning from on-premises infrastructure to a hybrid cloud environment. We need to maintain HIPAA compliance while improving system reliability and deployment speed. Our development team is familiar with traditional waterfall methodologies but inexperienced with modern DevOps practices. How should I approach this technical and cultural transformation? What specific security measures need to be implemented for protected health information?"
+        ],
+        "short": [
+          "Explain Docker containers.",
+          "What is CI/CD pipeline?"
+        ]
+      },
+      "Digital Marketing & SEO": {
+        "long": [
+          "I manage digital marketing for a local dental practice in a competitive urban market. We have a limited budget but need to increase new patient appointments by 30% over the next quarter. Our previous attempts at Google Ads yielded poor ROI. What comprehensive digital marketing strategy would you recommend, considering the specific challenges of healthcare marketing and local competition?",
+          "I manage marketing for a subscription-based meal kit service that's expanding into new metropolitan areas. We've found that customer acquisition costs are increasing while lifetime value varies significantly by region. We need to optimize our marketing funnel and improve retention rates. Our data shows different demographic groups respond to different messaging, but we're struggling to effectively segment and target our campaigns. What comprehensive strategy would improve our metrics?"
+        ],
+        "short": [
+          "How do I improve my SEO ranking?",
+          "How does Google's algorithm work?"
+        ]
+      },
+      "Data Analysis & Visualization": {
+        "long": [
+          "I have customer purchase data spanning three years for an e-commerce business selling home goods. The dataset includes transaction details, customer demographics, browsing behavior, and post-purchase survey responses. I need to identify key factors influencing customer lifetime value and develop actionable insights to increase repeat purchases. What analytical approach would be most effective?",
+          "I'm analyzing environmental monitoring data collected from urban sensors over the past decade. The dataset includes air quality measurements, weather conditions, traffic patterns, and construction activity across multiple neighborhoods. The goal is to identify key contributors to air quality degradation and model the potential impact of proposed policy interventions. The data has numerous gaps, measurement inconsistencies, and potentially confounding variables. How should I approach cleaning, analyzing, and visualizing this complex dataset?"
+        ],
+        "short": [
+          "What visualization works best for time series?",
+          "Explain regression analysis."
+        ]
+      }
+    },
+    "Interactive Prompts": {
+      "Web & Mobile App Development": {
+        "long": [
+          "I'm opening a local bookstore and need to create a website where customers can browse our inventory, register for monthly book club meetings, and sign up for our newsletter. I'd like the site to have a warm, inviting feel that reflects our physical store's cozy atmosphere. I have no coding experience but want to understand how the site would work. Our inventory includes approximately 5,000 titles that are currently tracked in an Excel spreadsheet, and we plan to update available books weekly. What would be the best approach to create this website?",
+          "I run a local farmer's market with 35 vendors selling produce, prepared foods, and crafts. We need a mobile app that allows customers to see which vendors are attending each week, browse available products with seasonal highlights, pre-order from select vendors, and receive notifications about special events or weather cancellations. Our vendors vary week to week, and product availability changes seasonally. Many of our vendors are not tech-savvy but could update their listings with a simple interface. We have a small budget and need something that both elderly customers and younger shoppers can easily navigate.",
+          "I'm running a small community theater and we're stuck in the stone age - everything is on paper! I need some kind of website or app where people can see what plays are coming up, buy tickets, and maybe choose their seats? We do about 8 shows a year with 12-15 performances each. Our audience is mostly older folks (like 50+) but we want to attract younger people too. I have absolutely no idea how websites work or what's possible. My nephew mentioned something about 'WordPress' but I don't know if that's right for us. We're a non-profit with very little money to spend. Oh, and it would be amazing if our volunteer ushers could use something on their phones to scan tickets instead of checking paper lists. Is this even possible? Where do I even start with this whole digital thing?"
+        ],
+        "short": [
+          "I want to design a simple landing page for my podcast.",
+          "I need to build a form that collects customer feedback.",
+          "I need to design a mobile app interface for fitness tracking."
+        ]
+      },
+      "Content Creation & Communication": {
+        "long": [
+          "I'm organizing a three-day sustainability conference with 15 speakers, 8 workshops, and networking events. I need to create promotional materials that communicate the schedule, highlight speaker credentials, and express our eco-friendly values. The target audience includes industry professionals, academics, and sustainability enthusiasts. I have the conference details in a document and professional photos of previous events, but I'm not sure how to design materials that will be engaging and informative while aligning with our green ethos.",
+          "I'm launching a YouTube channel focused on sustainable living for urban dwellers with limited space and resources. I plan to create weekly videos covering topics like balcony gardening, waste reduction, energy conservation in apartments, and low-impact transportation options. I have expertise in sustainability practices but no video production experience. I want to create a consistent visual style, engaging format, and clear instructional content that builds a community around practical environmentalism. I have a DSLR camera, basic lighting, and access to free editing software but need guidance on creating professional-looking content.",
+          "I'm the newly appointed communications director for a children's hospital foundation tasked with increasing donations and community engagement. We need to create compelling content that shares patient stories, showcases medical innovations, explains hospital needs, and motivates different donor segments without exploiting vulnerable children or compromising privacy. Our audience includes individual donors with emotional connections to pediatric health, corporate sponsors seeking community engagement, healthcare professionals, and former patients and their families. We have access to hospital facilities, willing patient families (with appropriate consent), medical experts, and professional photographers, but need a cohesive strategy that balances emotional appeal with dignity and medical accuracy across various formats including print materials, social media, website content, and fundraising events."
+        ],
+        "short": [
+          "I need to make a poster for my community event.",
+          "I want to create a logo for my bakery business.",
+          "I want to create an infographic about water conservation."
+        ]
+      },
+      "Academic Research & Writing": {
+        "long": [
+          "I've conducted a study examining the relationship between sleep patterns and academic performance among university students. I have data from 150 participants including sleep duration, quality metrics, class attendance, and test scores collected over one semester. I'm struggling to identify meaningful patterns and present my findings effectively for my dissertation. I need help organizing this data and identifying correlations between variables.",
+          "I'm conducting a longitudinal study on the effectiveness of different intervention strategies for first-generation college students. I have collected data at multiple time points including academic metrics (GPA, course completion, study hours), psychological measures (belonging, self-efficacy, stress), and social factors (campus involvement, work hours, family obligations). I need to integrate these diverse data types, account for confounding variables, identify which interventions show statistical significance for different student subgroups, and visualize the findings for both academic publication and administrator briefings.",
+          "I'm leading an interdisciplinary research project examining the impacts of urban green space interventions on community health outcomes across multiple cities. We've collected diverse data including pre/post intervention health metrics, environmental measurements, economic indicators, demographic information, and qualitative interviews with residents. The dataset combines information from health departments, environmental sensors, census records, property values, and our own survey instruments. I need to integrate these heterogeneous data sources, account for confounding variables across different urban contexts, identify statistically significant patterns, and visualize relationships between environmental changes and health metrics in ways that are meaningful for both academic publication and policy recommendations."
+        ],
+        "short": [
+          "I'm trying to organize my research notes on climate change.",
+          "I need to format my citations for my thesis.",
+          "I need to organize data from my psychology experiment."
+        ]
+      },
+      "Education & Career Development": {
+        "long": [
+          "I'm an elementary school teacher creating a unit on ecosystems for my fourth-grade class. I want to develop interactive lessons that help students understand food webs, energy flow, and habitat interdependence. Many of my students are visual learners, and some have reading difficulties. I have access to basic classroom technology but limited science equipment. How can I create engaging materials that accommodate different learning styles while accurately teaching scientific concepts?",
+          "I teach an advanced high school chemistry course and want to create an interactive unit on molecular structures and chemical bonding. Many students struggle with visualizing three-dimensional molecular arrangements and understanding how they relate to chemical properties. I want to develop materials that allow students to manipulate molecular models, predict bond angles and strengths, run simulated reactions, and connect microscopic structures to macroscopic properties. My students have varying levels of spatial reasoning abilities and mathematical preparation, and I need approaches that make these abstract concepts concrete.",
+          "I direct a continuing education program for healthcare professionals who need to maintain certifications while balancing demanding work schedules. I need to develop an adaptive learning system that assesses individual knowledge gaps, provides targeted modules to address specific weaknesses, tracks progress toward certification requirements, and accommodates different learning preferences and available time commitments. The content covers complex medical procedures, pharmaceutical updates, ethics scenarios, and regulatory changes. Learners include doctors, nurses, and technicians with varying specialties, years of experience, and technology comfort levels. The system needs to verify comprehension of critical information, provide realistic practice scenarios, and generate documentation for credentialing authorities."
+        ],
+        "short": [
+          "I want to learn French vocabulary with interactive exercises.",
+          "I want to practice multiplication tables in a fun way.",
+          "I want to understand quantum physics principles."
+        ]
+      },
+      "Advanced AI/ML Applications": {
+        "long": [
+          "I'm a marketing analyst trying to implement customer segmentation for our e-commerce business. We have three years of purchase data including products bought, purchase frequency, average order value, and basic demographic information for about 50,000 customers. I understand the basic concept of clustering algorithms but need guidance on how to prepare our data, select appropriate variables, determine the optimal number of segments, and interpret the results to create actionable marketing strategies.",
+          "I work for a small agricultural cooperative that wants to implement precision farming techniques. We have collected multispectral drone imagery of our fields over two growing seasons, along with soil sensor data, weather information, and crop yield measurements. We want to develop a system that can identify early signs of crop stress, predict yield by field section, and recommend targeted interventions like irrigation or fertilization. None of us have data science backgrounds, but we understand the agricultural context deeply and can interpret findings if presented appropriately.",
+          "I manage product development for a mid-sized e-commerce company selling thousands of items across multiple categories. We want to implement a comprehensive recommendation system that suggests relevant products throughout the customer journey - from initial site visit through purchase and follow-up communications. We have extensive historical data including browsing behavior, search queries, purchase history, inventory attributes, and customer demographics. The system should balance showcasing popular items with discovering user-specific preferences, account for seasonal trends and inventory availability, and adapt quickly to changing user interests. Our team has basic SQL skills but limited machine learning experience, so we need an approach that can be implemented, maintained, and understood by our existing staff while delivering measurable improvements in conversion and average order value."
+        ],
+        "short": [
+          "Show me how different machine learning algorithms work.",
+          "I need to understand how image recognition works.",
+          "I need to build a basic recommendation system."
+        ]
+      },
+      "Business Strategy & Operations": {
+        "long": [
+          "I'm taking over my family's restaurant that has been operating for 30 years with minimal changes. While we have loyal customers, revenue has been declining gradually. We specialize in Italian cuisine in a neighborhood that's becoming younger and more diverse. I need to develop a comprehensive business revitalization plan that respects our heritage while attracting new customers. I have access to basic sales data from our POS system and some customer feedback but lack formal business training.",
+          "I'm inheriting a 30-year-old hardware store in a changing neighborhood that's experiencing both gentrification and the pressure of big-box competitors. The store has loyal but aging customers, extensive inventory across thousands of SKUs with varying turnover rates, and employees with decades of product knowledge. I need to develop a comprehensive strategy that modernizes our operations while leveraging our strengths in personalized service and expertise. I have access to point-of-sale data but it hasn't been analyzed strategically before. I need to understand which departments are profitable, how to adjust our inventory mix, whether to invest in e-commerce, and how to attract younger customers without alienating our base."
+        ],
+        "short": [
+          "I need to create a SWOT analysis for my small business.",
+          "I want to create financial projections for my startup."
+        ]
+      },
+      "Language Translation": {
+        "long": [
+          "I'm creating an employee handbook for a manufacturing company with workers who speak English, Spanish, and Vietnamese. The handbook contains crucial safety procedures, company policies, and benefits information that must be accurately understood by all employees regardless of their primary language. Technical terminology is abundant, and some concepts don't have direct translations. I need to ensure that all versions convey identical information while being culturally appropriate.",
+          "I'm developing educational materials for a medical skills training program that will be implemented in rural health clinics across Central America. The content includes illustrated guides for basic procedures, patient assessment tools, and decision-making flowcharts for treatment protocols. The materials need to be translated from English into Spanish, Guatemalan Mayan dialects, and Honduran indigenous languages. Medical terminology needs to be accurate but accessible to health workers with varying levels of formal education. Cultural concepts of health, body, and illness differ significantly between regions, and visual representations need to be culturally appropriate while remaining medically accurate."
+        ],
+        "short": [
+          "I need to translate this document from English to Spanish.",
+          "I need to learn common phrases in Japanese for my trip."
+        ]
+      },
+      "DevOps & Cloud Infrastructure": {
+        "long": [
+          "I'm the solo developer for a growing educational platform that's experiencing performance issues and occasional downtime as our user base expands. Currently, I manually deploy updates to a single server, which causes service interruptions. I need to modernize our infrastructure to improve reliability, allow for automated testing and deployment, and accommodate growing traffic without requiring constant monitoring. I have basic Linux administration skills but limited experience with modern DevOps tools.",
+          "I manage IT for a medium-sized accounting firm that handles sensitive financial data for clients. Our current infrastructure consists of aging on-premises servers running legacy applications, with manual backup procedures and inconsistent security protocols. We need to modernize our systems to improve security, ensure business continuity during tax season peak loads, enable remote work capabilities, and meet regulatory compliance requirements. Our staff has varying technical abilities, and any transition needs to minimize disruption to ongoing client work. I need a comprehensive approach to migrate our infrastructure while implementing proper security controls, automated scaling, and disaster recovery procedures."
+        ],
+        "short": [
+          "I want to understand cloud architecture for my application.",
+          "I want to set up a continuous integration workflow."
+        ]
+      },
+      "Digital Marketing & SEO": {
+        "long": [
+          "I run a specialty tea shop that has relied on foot traffic and word of mouth. With changing shopping habits, I need to establish an online presence that drives e-commerce sales and brings customers to our physical location. My products are high-quality but expensive compared to mass-market alternatives, and education about tea origins and brewing methods is essential for customer appreciation. I have high-quality product photography but no experience with digital marketing campaigns or analytics.",
+          "I've invented a unique kitchen tool that solves a common cooking problem and have successfully manufactured the first production run. Now I need to build market awareness and drive sales through e-commerce and potential retail partnerships. My target audience spans home cooks, professional chefs, and cooking enthusiasts, but I have limited marketing budget to reach these segments. I need to develop a digital marketing strategy that showcases the product's functionality, builds credibility through demonstrations and testimonials, optimizes for conversion, and collects data to refine my approach. I have professional product photography and can create demonstration videos but have no experience with digital advertising platforms or campaign optimization."
+        ],
+        "short": [
+          "I need to analyze my website traffic patterns.",
+          "I need to create an email marketing campaign."
+        ]
+      },
+      "Data Analysis & Visualization": {
+        "long": [
+          "I manage a community health clinic and need to understand patterns in patient visits, treatment effectiveness, and resource utilization. We have five years of anonymized patient data including demographics, appointment types, diagnoses, treatments, and outcomes. I want to identify underserved populations, optimize staffing based on peak times, and demonstrate our impact to secure additional funding. The data exists in our electronic health record system, but I've never conducted a comprehensive analysis.",
+          "I manage a nonprofit community center that offers various programs including after-school activities, adult education classes, senior services, and community events. We need to understand which programs are making the greatest impact relative to their costs, identify underserved community segments, and optimize our resource allocation for maximum community benefit. We have attendance records, participant demographics, program costs, participant feedback surveys, and some outcome measurements (e.g., academic improvement for students, job placement for adult education). The data exists in different systems and formats, and we need to create a comprehensive analysis to guide strategic planning and support grant applications."
+        ],
+        "short": [
+          "I want to visualize my company's sales data.",
+          "I want to analyze this survey data from my customers."
+        ]
+      }
+    }
+  }
+}
